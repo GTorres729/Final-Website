@@ -1,0 +1,88 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+html {
+    background: rgb(41, 34, 104);
+
+
+}
+
+header {
+    background-color:white;
+    margin:-30px auto 0px auto;
+    padding-top:20px;
+}
+
+main {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin:0px auto 0px auto;
+    max-width: 1230px;
+
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif; 
+    text-align:center;
+    background-color: rgb(41, 34, 104);
+    margin:0px auto 0px auto;
+    padding-bottom:30px;
+
+}
+
+article {
+    background-color:white;
+    margin:0px auto 0px auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin:30px;
+    border-top:black;
+
+}
+
+h1 {
+    font-family:"Tomorrow", sans-serif;
+    font-size: 42px;
+}
+
+h2 {
+    font-family:"Tomorrow", sans-serif;
+    text-align:center;
+    padding-bottom:10px;
+
+}
+
+nav {
+    text-align:center;
+    padding-top:24px;
+    padding-bottom:24px;
+}
+
+ul {
+    list-style-type: disc;
+    margin: 0px 20px 0px 20px;
+    padding: 0;
+   }
+   
+nav li {
+    display:inline;
+}
+
+p {
+    max-width:600px;
+    margin:0px auto 0px auto;
+    padding-top:12px;
+}
+
+.tomorrow-medium {
+    font-family: "Tomorrow", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  .card1 {
+    display: inline-block;
+
+  }

@@ -1,0 +1,66 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+main {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin:0px auto 60px auto;
+    max-width: 900px;
+
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif; 
+    text-align:center;
+    background-color: rgb(41, 34, 104);
+    margin:0px auto 0px auto;
+    padding-bottom:30px;
+
+}
+
+article {
+    background-color:white;
+    margin:0px auto 0px auto;
+    padding-bottom: 30px;
+    margin:30px;
+
+}
+
+p {
+    max-width:600px;
+    margin:0px auto 0px auto;
+}
+
+h1 {
+    font-family:"Tomorrow", sans-serif;
+    padding-top:30px;
+
+}
+
+nav {
+    text-align:center;
+    padding-top:24px;
+    padding-bottom:24px;
+}
+
+ul {
+    list-style-type: disc;
+    margin: 0px 20px 0px 20px;
+    padding: 0;
+   }
+   
+nav li {
+    display:inline;
+}
+
+.tomorrow-medium {
+    font-family: "Tomorrow", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  .card1 {
+    display: inline-block;
+  }
